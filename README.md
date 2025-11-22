@@ -40,7 +40,30 @@
 
 ![5238063057198583282](https://github.com/user-attachments/assets/f071de38-9c9e-4b4f-83ef-8f1e58e20c94)
 
+## Процесс резки лазером
+
+
+
+https://github.com/user-attachments/assets/550a21b5-a64e-4a4e-ba10-362a987bcca0
+
+
+
+https://github.com/user-attachments/assets/4a730f1e-eede-49f5-85b6-4fdeefa22e52
+
+
+
+https://github.com/user-attachments/assets/f1421cd5-0802-4f1c-9ab5-e2e24959a308
+
+
+
 ## Собранный KIT
 
 *Важно!*
-В процессе сборки выяснилось, что пазы получились слишком маленькими. Увеличим немного масштаб макета.
+В процессе сборки выяснилось, что пазы получились слишком маленькими. Увеличим немного масштаб макета на 30%.
+
+## Резутат работы
+
+![5265065207350889342](https://github.com/user-attachments/assets/de1e319c-c385-4f42-82af-6acc53808ef2)
+![5265065207350889345](https://github.com/user-attachments/assets/68f44bf5-e629-4f63-88e2-9fa441954a3d)
+![5265065207350889344](https://github.com/user-attachments/assets/fbe2d06f-e7be-4828-903b-06c5bfda80d2)
+![5265065207350889343](https://github.com/user-attachments/assets/fb15ac70-c6bf-42a4-8715-416c8b78faad)
